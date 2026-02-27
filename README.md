@@ -2,7 +2,8 @@
 
 A production-grade, enterprise-ready event ticketing platform built with Next.js, MongoDB, and Paystack. Designed specifically for the Kenyan market with modern UI/UX.
 
-![TicketHub](TicketHubV2.png)
+
+<img width="1024" height="1536" alt="TicketHubV2 (2)" src="https://github.com/user-attachments/assets/861c5b88-82c9-46dc-a20e-53b89f2a499d" />
 
 ## 🚀 Features
 
